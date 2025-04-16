@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sank (a.k.a sankworks)
+# 👋 Hi, I'm SanK (a.k.a sankworks)
 
 Civil Servant 🇰🇷 → Future Developer 🌎  
 Learning to build software and smart homes — step by step.
